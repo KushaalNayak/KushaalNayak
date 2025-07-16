@@ -6,7 +6,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KushaalNayak&layout=compact&theme=dark&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NischalSingana&theme=dark&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KushaalNayak&theme=dark&cache_seconds=86400)
 
 ## 🌐 Connect with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushaalbadavath8@gmail.com)
