@@ -2,9 +2,6 @@
   Hi 👋, I'm Kushaal Badavath
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;Open+Source+Enthusiast;Building+Revive.dev;Always+Learning+New+Things+🚀" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Kushaal%20Badavath&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -79,9 +76,6 @@ CLI tool for quickly bootstrapping projects.
 ### 🌐 ZeroStart Web
 A modern starter template for web applications.
 
-### 🤖 Smart Vehicle Research
-Research and innovation focused on sustainable battery technologies.
-
 ---
 
 ## 📊 GitHub Statistics
@@ -150,10 +144,6 @@ while(alive){
 ```
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KushaalNayak&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <h3 align="center">
 ⭐ If you like my projects, consider starring them!
