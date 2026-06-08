@@ -84,15 +84,6 @@ A modern starter template for web applications.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushaalNayak&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KushaalNayak&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
