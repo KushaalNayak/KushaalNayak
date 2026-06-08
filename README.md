@@ -1,13 +1,160 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" />, I'm Kushaal Badavath
+ <h1 align="center">
+  Hi 👋, I'm Kushaal Badavath
+</h1>
 
-🎓 B.Tech CSE Student | 💻 Learning Web Development | 🚀 Exploring Open Source  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;Open+Source+Enthusiast;Building+Revive.dev;Always+Learning+New+Things+🚀" />
+</p>
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KushaalNayak&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Kushaal%20Badavath&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushaalbadavath8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KushaalNayak/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kushhh_ig/)
+---
 
-⭐️ *Don’t forget to star my repositories if you find them useful!* 😊
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Student
+
+🌱 Currently learning **Full Stack Development & Open Source**
+
+🔭 Working on **Revive.dev**
+
+💡 Passionate about solving real-world problems through technology
+
+⚡ Goal: Contribute to impactful Open Source projects
+
+🎯 Interested in Web Development, DevOps, AI & Software Engineering
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:kushaalbadavath8@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kushaalbadavath">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kushhh_ig">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,c,cpp,python,mysql,mongodb,git,github,vscode,figma,linux" />
+</p>
+
+---
+
+## 🚀 Currently Building
+
+### 🌟 Revive.dev
+
+A platform that helps developers discover, adopt and contribute to abandoned Open Source repositories.
+
+#### Features
+- Repository Discovery
+- Contributor Matching
+- Project Revival Tracking
+- Community Collaboration
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 Revive.dev
+Helping developers revive abandoned open-source projects.
+
+### ⚡ ZeroStart CLI
+CLI tool for quickly bootstrapping projects.
+
+### 🌐 ZeroStart Web
+A modern starter template for web applications.
+
+### 🤖 Smart Vehicle Research
+Research and innovation focused on sustainable battery technologies.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushaalNayak&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushaalNayak&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KushaalNayak&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KushaalNayak&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushaalNayak&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/KushaalNayak/KushaalNayak/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Grow Revive.dev
+- 🌟 Contribute to major Open Source projects
+- 💼 Land a Software Engineering Internship
+- 📚 Master Full Stack Development
+- 🤝 Build impactful developer tools
+
+---
+
+## ☕ Fun Fact
+
+```javascript
+while(alive){
+    learn();
+    build();
+    contribute();
+    repeat();
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KushaalNayak&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+⭐ If you like my projects, consider starring them!
+</h3>
