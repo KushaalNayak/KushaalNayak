@@ -78,18 +78,6 @@ A modern starter template for web applications.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushaalNayak&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushaalNayak&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📈 GitHub Streak
 
 <p align="center">
@@ -112,15 +100,6 @@ A modern starter template for web applications.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushaalNayak&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/KushaalNayak/KushaalNayak/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🎯 2026 Goals
 
@@ -142,8 +121,6 @@ while(alive){
     repeat();
 }
 ```
-
----
 
 <h3 align="center">
 ⭐ If you like my projects, consider starring them!
