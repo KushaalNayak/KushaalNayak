@@ -20,11 +20,11 @@
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/Kushaalbadavath">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=9B9B6A"/>
 </a>
 
-<a href="https://www.revivedev.app/">
+<a href="https://www.kushaalbadavath.me">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=9B9B6A"/>
 </a>
 
