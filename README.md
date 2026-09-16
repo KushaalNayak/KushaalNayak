@@ -2,7 +2,7 @@
 
 <!-- ========================= HERO ========================= -->
 
-<img src="./assets/me.png" width="240" alt="Kushaal Nayak Anime Avatar"/>
+<img src="./me.png" width="240" alt="Kushaal Nayak Anime Avatar"/>
 
 <br>
 
