@@ -1,118 +1,63 @@
- <h1 align="center">
-  Hi 👋, I'm Kushaal Badavath
-</h1>
+<div align="center">
 
+<!-- ========================= HERO ========================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Kushaal%20Badavath&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+<img src="./assets/me.png" width="240" alt="Kushaal Nayak Anime Avatar"/>
 
----
+<br>
 
-## 🚀 About Me
+# Kushaal Nayak
 
-🎓 B.Tech Computer Science Student
+### `Computer Science Student` • `Full-Stack Developer` • `Builder`
 
-🌱 Currently learning **Full Stack Development & Open Source**
+<br>
 
-🔭 Working on **Revive.dev**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=9B9B6A&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code.;Building+things+that+shouldn't+exist.;Learning.+Building.+Breaking.+Repeating.;Welcome+to+my+digital+space.;The+story+is+still+being+written..." />
 
-💡 Passionate about solving real-world problems through technology
+<br><br>
 
-⚡ Goal: Contribute to impactful Open Source projects
-
-🎯 Interested in Web Development, DevOps, AI & Software Engineering
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:kushaalbadavath8@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/KushaalNayak">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kushaalbadavath">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=9B9B6A"/>
 </a>
 
-<a href="https://instagram.com/kushhh_ig">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.revivedev.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=9B9B6A"/>
 </a>
-</p>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=KushaalNayak&style=for-the-badge&color=9B9B6A&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
 
 ---
 
-## 💻 Tech Stack
+<!-- ========================= ABOUT ========================= -->
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,c,cpp,python,mysql,mongodb,git,github,vscode,figma,linux" />
-</p>
+<div align="center">
 
----
+## 🥷 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀
 
-## 🚀 Currently Building
+</div>
 
-### 🌟 Revive.dev
-
-A platform that helps developers discover, adopt and contribute to abandoned Open Source repositories.
-
-#### Features
-- Repository Discovery
-- Contributor Matching
-- Project Revival Tracking
-- Community Collaboration
-
----
-
-## 🔥 Featured Projects
-
-### 🚀 Revive.dev
-Helping developers revive abandoned open-source projects.
-
-### ⚡ ZeroStart CLI
-CLI tool for quickly bootstrapping projects.
-
-### 🌐 ZeroStart Web
-A modern starter template for web applications.
-
----
-
-## 📈 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KushaalNayak&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushaalNayak&theme=tokyo-night&hide_border=true"/>
-</p>
-
-
-## 🎯 2026 Goals
-
-- 🚀 Grow Revive.dev
-- 🌟 Contribute to major Open Source projects
-- 💼 Land a Software Engineering Internship
-- 📚 Master Full Stack Development
-- 🤝 Build impactful developer tools
-
----
-
-## ☕ Fun Fact
-
-```javascript
-while(alive){
-    learn();
-    build();
-    contribute();
-    repeat();
-}
-```
-
-<h3 align="center">
-⭐ If you like my projects, consider starring them!
-</h3>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   👋 Hey, I'm Kushaal.                                     │
+│                                                             │
+│   🎓 Computer Science Student                              │
+│   💻 Full-Stack Developer                                  │
+│   🤖 AI & Developer Tools Enthusiast                       │
+│   ☁️  Cloud & AWS Explorer                                  │
+│   🚀 Hackathon Builder                                      │
+│                                                             │
+│   I enjoy taking random ideas and turning them into         │
+│   something that actually works.                            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
